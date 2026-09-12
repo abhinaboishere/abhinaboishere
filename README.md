@@ -38,11 +38,12 @@
 | Project | Description |
 |---|---|
 | 🎓 [StudyDeck](https://github.com/abhinaboishere/StudyDeck) | Python-based study/flashcard tool |
-| 🌐 [Portfolio](https://github.com/abhinaboishere/Portfolio) | Personal portfolio website |
-| 🖥️ [Student-Dashboard](https://github.com/abhinaboishere/Student-Dashboard) | Django-based dashboard for managing student profiles with full CRUD |
-| 🌍 [Language-Translator](https://github.com/abhinaboishere/Language-Translator) | Streamlit app using Google Generative AI for multi-language translation |
 | 🧠 [Multi-Agent-Research](https://github.com/abhinaboishere/Multi-Agent-Research) | Research into multi-agent AI systems |
 | 🔒 [Network-Intrusion-Detection](https://github.com/abhinaboishere/Network-Intrusion-Detection) | Jupyter Notebook project on detecting network intrusions |
+| 🌍 [Language-Translator](https://github.com/abhinaboishere/Language-Translator) | Streamlit app using Google Generative AI for multi-language translation |
+|  🌐 [Portfolio](https://github.com/abhinaboishere/Portfolio) | Personal portfolio website |
+
+ 
 
 ---
 
