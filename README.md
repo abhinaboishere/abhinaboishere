@@ -49,18 +49,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinaboishere&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaboishere&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaboishere&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaboishere&theme=tokyo-night&hide_border=true" />
-</p>
+ 
 
 ---
 🐍 Contribution Snake
